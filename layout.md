@@ -1,5 +1,6 @@
 untitled.html
 test.tex
+figures/interactive-figure-1458835023646/figure.html
 figures/interactive-figure-1458834791443/figure.html
 But_I_must_explain_to__.html
 figures/figure_1/figure_1.png
